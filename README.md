@@ -1,5 +1,9 @@
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnprajVhY21hOHcxdWF2NHIzdzl0N2Uwa3ZocXExZ2E2NW11bG5sNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="banner">
+</p>
 <h1 align="center">Hi 👋, I'm Suryanshu</h1>
 <h3 align="center">An open-source enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNzenozMmU1dGF4YzFoanZ1azNpcmtnNGZ3eHRhbmFvMzJ5aWJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
 - 🌱 I’m currently learning **React, Machine Learning and UI/UX**
 
