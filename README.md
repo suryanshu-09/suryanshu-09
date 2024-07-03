@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **React, Machine Learning and UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/suryanshu](https://bento.me/suryanshu)
+- 👨‍💻 All of my desgin projects are available at [https://bento.me/suryanshu](https://bento.me/suryanshu)
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/1PweS1XYmOuv_VzOw8BjGVMMdHA-sud5c/view?usp=sharing)
+- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/18YDYXsLbiTIaQgLwJPyNA9CS1s4H9nOi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
