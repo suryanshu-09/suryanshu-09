@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my desgin projects are available at <a href="https://bento.me/suryanshu" target="_blank">bento.me</a>
+- 👨‍💻 All of my desgin projects are available at [@bento.me](https://bento.me/suryanshu)
 
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1YDGWw_bhOZmZHwbiYb3RdIYpmVW5YK5I/view?usp=sharing" target="_blank">resume 🔗</a>
+- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/19jIjprle_kmAsPEuLEwKxKtlxWiEmvX2/view?usp=sharing})
 
 
 <h3 align="left">Connect with me:</h3>
