@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryanshu</h1>
-<h3 align="center">An open-source enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNzenozMmU1dGF4YzFoanZ1azNpcmtnNGZ3eHRhbmFvMzJ5aWJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
+<h3 align="center">An open-source enthusiast</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/1iZdfQ4pyrUO4N_o68Fd_ABmArVhQ1v8f/view?usp=sharing)
+- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/1Mg_HNNFKl4NXde8K_QPG3-qcOdMniBzg/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
