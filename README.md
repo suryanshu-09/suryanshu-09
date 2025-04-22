@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/1Mg_HNNFKl4NXde8K_QPG3-qcOdMniBzg/view?usp=sharing)
+- 📄 Know about my experiences [resume 🔗](https://drive.google.com/file/d/1eEICUtOj8VhcgD8mDOjgCqX3tgD7_P4e/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
