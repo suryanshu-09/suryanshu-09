@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryanshu</h1>
 <h3 align="center">An open-source enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Go and DevOps**
 
 - 👨‍💻 All of my desgin projects are available at [@bento.me](https://bento.me/suryanshu)
 
