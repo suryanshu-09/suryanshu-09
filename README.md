@@ -19,3 +19,7 @@
   - tui whatsapp using go - bubbletea, lipgloss and whatsmeow
 - Deployed Applications:
   - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshu-09&show_icons=true&locale=en&layout=compact" alt="suryanshu-09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanshu-09&show_icons=true&locale=en" alt="suryanshu-09" /></p>
