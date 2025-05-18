@@ -4,8 +4,16 @@
 - 📚 I’m currently learning **TS, Go and DevOps**
 
 - 🤓 I'm fairly comfortable with
-   ### - **Typescript (Next.js, SvelteKit)**,
-   ### - **Golang (Hugo)**
+  - **Dev**: 
+     - Typescript (Next.js, SvelteKit),
+     - Golang (Hugo)
+   - **CC**:
+     - Golang,
+     - C++
+   - **Tools**:
+     - LaTeX,
+     - Kdenlive,
+     - GIMP
 
 - 🖼️ All of my desgin projects are available at [@bento.me](https://bento.me/suryanshu)
 
