@@ -15,18 +15,20 @@
      - Kdenlive,
      - GIMP
 
+- 🔎 Here's my portfolio - [suryanshu-profile](https://suryanshu-profile.vercel.app)
+
 - 🖼️ All of my desgin projects are available at [@bento.me](https://bento.me/suryanshu)
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- ⛑️ Know about my experiences [resume 🔗](https://drive.google.com/file/d/1einHy11g0rNToVcmmreEtj1n0OEItCbm/view?usp=sharing)
+- ⛑️ Know about my experiences [resume 🔗](https://drive.google.com/file/d/1ZYriHTh378grGNTL9pR0MpXmT6nIz4eh/view?usp=sharing)
 
-- Currently Reading:
-  - [The Gramscian Moment](https://www.youtube.com/watch?v=Exe5U3kFU5g)
+- 👩‍💻 Find my setup @[dotfiles](https://github.com/suryanshu-09/dotfiles)
 - Currently Working on:
   - tui whatsapp using go - bubbletea, lipgloss and whatsmeow
 - Deployed Applications:
   - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place.
+  - [Portfolio](https://suryanshu-profile.vercel.app) - Personal Profile - made with SvelteKit.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshu-09&show_icons=true&locale=en&layout=compact" alt="suryanshu-09" /></p>
 
