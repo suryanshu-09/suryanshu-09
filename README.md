@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **suryanshusaini@gmail.com**
 
-- ⛑️ Know about my experiences [resume 🔗](https://drive.google.com/file/d/1T3TJvmhrtlo7dedys13JcP6gx_wwzqnZ/view?usp=sharing)
+- ⛑️ Know about my experiences [resume 🔗](https://find-suryanshu.vercel.app/assets/Suryanshu_Resume.pdf)
 
 - 👩‍💻 Find my setup @[dotfiles](https://github.com/suryanshu-09/dotfiles)
 - Currently Working on:
