@@ -12,8 +12,8 @@
      - C++
    - **Tools**:
      - LaTeX,
-     - Kdenlive,
-     - GIMP
+     - Podman
+  
 
 - 🔎 Here's my portfolio - [suryanshu-profile](https://find-suryanshu.vercel.app)
 
@@ -26,6 +26,7 @@
 - 👩‍💻 Find my setup @[dotfiles](https://github.com/suryanshu-09/dotfiles)
 - Currently Working on:
   - tui whatsapp using go - bubbletea, lipgloss and whatsmeow
+  - a tui for [cobalt](https://cobalt.tools/) using go with bubbletea and lipgloss
 - Deployed Applications:
   - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place.
   - [Portfolio](https://find-suryanshu.vercel.app) - Personal Profile - made with SvelteKit.
