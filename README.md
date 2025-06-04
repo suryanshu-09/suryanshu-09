@@ -1,5 +1,5 @@
 <h1 align="center">Henlo 👉👈, I'm Suryanshu 🥸</h1>
-<h3 align="center">An open-source enthusiast</h3>
+<h3 align="center">Reinventing the wheel in Go</h3>
 
 - 📚 I’m currently learning **TS, Go and DevOps**
 
