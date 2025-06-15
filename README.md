@@ -12,7 +12,9 @@
      - C++
    - **Tools**:
      - LaTeX,
-     - Podman
+     - Docker,
+     - Redis,
+     - Postgres
   
 
 - 🔎 Here's my portfolio - [suryanshu-profile](https://find-suryanshu.vercel.app)
