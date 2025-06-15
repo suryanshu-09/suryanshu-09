@@ -26,7 +26,7 @@
 - 👩‍💻 Find my setup @[dotfiles](https://github.com/suryanshu-09/dotfiles)
 - Deployed Applications:
   - [WeGoWayback](https://github.com/suryanshu-09/we-go-wayback) - A Golang Port of Wayback Machine's [wayback-discover-diff](https://github.com/internetarchive/wayback-discover-diff).
-  - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place.
+  - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place. Now with RSS Feed.
   - [Portfolio](https://find-suryanshu.vercel.app) - Personal Profile - made with SvelteKit.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshu-09&show_icons=true&locale=en&layout=compact" alt="suryanshu-09" /></p>
