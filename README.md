@@ -14,7 +14,7 @@
      - LaTeX,
      - Docker,
      - Redis,
-     - Postgres
+     - Prometheus+Grafana
   
 
 - 🔎 Here's my portfolio - [suryanshu-profile](https://find-suryanshu.vercel.app)
