@@ -6,15 +6,11 @@
 - 🤓 I'm fairly comfortable with
   - **Dev**: 
      - Typescript (Next.js, SvelteKit),
-     - Golang (Hugo)
-   - **CC**:
-     - Golang,
-     - C++
+     - Golang (Charm, Cobra, Hugo)
    - **Tools**:
-     - LaTeX,
      - Docker,
      - Redis,
-     - Prometheus+Grafana
+     - Prometheus + Grafana
   
 
 - 🔎 Here's my portfolio - [suryanshu-profile](https://find-suryanshu.vercel.app)
