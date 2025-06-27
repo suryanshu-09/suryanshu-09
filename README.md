@@ -6,7 +6,7 @@
 - 🤓 I'm fairly comfortable with
   - **Dev**: 
      - Typescript (Next.js, SvelteKit),
-     - Golang (Charm.sh, Hugo)
+     - Golang (Charm.sh, Cobra, Hugo)
    - **Tools**:
      - Docker,
      - Redis,
