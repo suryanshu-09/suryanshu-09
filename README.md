@@ -23,7 +23,7 @@
 
 - 👩‍💻 Find my setup @[dotfiles](https://github.com/suryanshu-09/dotfiles)
 - Stuff Built:
-  - [Hulaki](https://github.com/suryanshu-09/hulaki) - An open source API testing suite written in Go.
+  - [Hulaki](https://github.com/suryanshu-09/hulaki) - An open-source API testing suite written in Go.
   - [WeGoWayback](https://github.com/suryanshu-09/we-go-wayback) - A Golang Port of Wayback Machine's [wayback-discover-diff](https://github.com/internetarchive/wayback-discover-diff).
   - [Webmellon](https://webmellon.vercel.app/) - A bookmark aggregator app to get all your favourite websites in one place. Now with RSS Feed.
 
